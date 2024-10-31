@@ -1,0 +1,14 @@
+C:\Users\Ging\source\repos\SomeProject\SomeProject\bin\Debug\net8.0\SomeProject.exe
+C:\Users\Ging\source\repos\SomeProject\SomeProject\bin\Debug\net8.0\SomeProject.deps.json
+C:\Users\Ging\source\repos\SomeProject\SomeProject\bin\Debug\net8.0\SomeProject.runtimeconfig.json
+C:\Users\Ging\source\repos\SomeProject\SomeProject\bin\Debug\net8.0\SomeProject.dll
+C:\Users\Ging\source\repos\SomeProject\SomeProject\bin\Debug\net8.0\SomeProject.pdb
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\SomeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\SomeProject.AssemblyInfoInputs.cache
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\SomeProject.AssemblyInfo.cs
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\SomeProject.csproj.CoreCompileInputs.cache
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\SomeProject.dll
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\refint\SomeProject.dll
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\SomeProject.pdb
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\SomeProject.genruntimeconfig.cache
+C:\Users\Ging\source\repos\SomeProject\SomeProject\obj\Debug\net8.0\ref\SomeProject.dll
